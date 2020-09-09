@@ -1,6 +1,6 @@
 # PARK-TAE-JOON
-개발자가 되기 위한 과정
-HTML / CSS - 생활코딩으로 공부
+- 개발자가 되기 위한 과정
+- HTML / CSS - 생활코딩으로 공부
 JAVASCRIPT - 생활코딩으로 공부
 JQUERY - 생활코딩으로 공부
 MYSQL - 생활코딩으로 공부
